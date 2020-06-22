@@ -1,0 +1,54 @@
+VVV
+LNV
+LNV
+LNN
+LLN
+./pentomino LNV  0.00s user 0.00s system 84% cpu 0.002 total
+LLLL
+LNNN
+NNZV
+ZZZV
+ZVVV
+./pentomino LNVZ  0.00s user 0.00s system 84% cpu 0.002 total
+NLLLL
+NLVVV
+NNZZV
+UNUZV
+UUUZZ
+./pentomino LNVZU  0.00s user 0.00s system 90% cpu 0.004 total
+TTTVVV
+LTUUUV
+LTUZUV
+LNNZZZ
+LLNNNZ
+./pentomino LNVZUT  0.03s user 0.00s system 96% cpu 0.031 total
+UUULLLL
+UTULPPP
+VTTTZPP
+VTNNZZZ
+VVVNNNZ
+./pentomino LNVZUTP  0.05s user 0.00s system 97% cpu 0.050 total
+LLLLTPPP
+LXTTTZPP
+XXXVTZZZ
+UXUVNNNZ
+UUUVVVNN
+./pentomino LNVZUTPX  0.04s user 0.00s system 99% cpu 0.038 total
+LLLLFTVVV
+LXFFFTZZV
+XXXFTTTZV
+UXUPPNNZZ
+UUUPPPNNN
+./pentomino LNVZUTPXF  1.81s user 0.00s system 99% cpu 1.826 total
+LLLLZIIIII
+LXNNZZZTTT
+XXXNNNZFTV
+UXUPPFFFTV
+UUUPPPFVVV
+./pentomino LNVZUTPXFI  18.01s user 0.00s system 99% cpu 18.018 total
+LLLLPPPTVVV
+LXZZPPFTTTV
+XXXZFFFTWWV
+UXUZZFNNNWW
+UUUIIIIINNW
+./pentomino LNVZUTPXFIW  81.93s user 0.00s system 99% cpu 1:21.96 total

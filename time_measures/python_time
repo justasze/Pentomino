@@ -1,0 +1,48 @@
+VVV
+LNV
+LNV
+LNN
+LLN
+./pentomino.py LNV  0.30s user 0.34s system 522% cpu 0.123 total
+LLLL
+LNZZ
+NNZV
+NZZV
+NVVV
+./pentomino.py LNVZ  0.29s user 0.35s system 526% cpu 0.122 total
+NLLLL
+NLVVV
+NNZZV
+UNUZV
+UUUZZ
+./pentomino.py LNVZU  0.36s user 0.35s system 370% cpu 0.193 total
+TTTVVV
+LTUUUV
+LTUZUV
+LNNZZZ
+LLNNNZ
+./pentomino.py LNVZUT  3.84s user 0.31s system 114% cpu 3.631 total
+UUULLLL
+UTULPPP
+VTTTZPP
+VTNNZZZ
+VVVNNNZ
+./pentomino.py LNVZUTP  11.88s user 0.32s system 104% cpu 11.684 total
+LLLLTPPP
+LXTTTZPP
+XXXVTZZZ
+UXUVNNNZ
+UUUVVVNN
+./pentomino.py LNVZUTPX  9.53s user 0.30s system 105% cpu 9.313 total
+LLLLFTVVV
+LXFFFTZZV
+XXXFTTTZV
+UXUPPNNZZ
+UUUPPPNNN
+./pentomino.py LNVZUTPXF  748.25s user 0.38s system 100% cpu 12:28.44 total
+LLLLFFNUUU
+LPPFFNNUZU
+VPPXFNZZZT
+VPXXXNZTTT
+VVVXIIIIIT
+./pentomino.py LNVZUTPXFI  5266.77s user 0.45s system 99% cpu 1:27:48.73 total
